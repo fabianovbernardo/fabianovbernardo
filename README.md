@@ -1,5 +1,4 @@
-###  Fabiano Bernardo
-### UM POUCO DA MINHA HISTÓRIA PROFISSIONAL
+###  UM POUCO DA MINHA HISTÓRIA PROFISSIONAL
 Profissional graduado em Processamento de Dados com Especialização em Informática em Saúde.
 
 Trabalhei 6 anos como Analista de Suporte onde tive oportunidade de aprender um pouco de outras áreas, Rede, Banco de Dados e 3 anos como Gestor de TI.
