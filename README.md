@@ -5,6 +5,7 @@ Trabalhei 6 anos como Analista de Suporte onde tive oportunidade de aprender um 
 
 Chegou um momento que percebi a necessidade de trilhar novos desafios, se qualificar e consolidar uma carreira nesta nova área escolhida. Trabalhar com dados, conhecer novas ferramentas, arquiteturas e foi assim que diariamente estou estudando para acompanhar  o crescimento da tecnologia.
 
-Hoje sou estudante de **Big Data** com foco na carreira de **Engenharia de Dados** área que a cada dia tenho me encontrado profissionalmente.
+Hoje estou focado na carreira de **Engenheiro de Dados** área que a cada dia tenho me encontrado profissionalmente.
 
-> **𝗦𝗸𝗶𝗹𝗹𝘀:**  Conhecimento em **Linux**, Windows Server, **Banco de    Dados relacional, Pentaho**, Apache Nifi, **Docker, containers**, Ecossistema Hadoop, Apache Spark, MongoDB, Python, **PowerBI**, Processamento de dados, **Análise de dados**,  Armazenamento de dados, ITIL v3 Fundation, Ágis com Scrum 
+> **𝗦𝗸𝗶𝗹𝗹𝘀:**  Conhecimento em **Banco de Dados relacional, Pentaho**, **SISS**, **Análise de dados**
+
