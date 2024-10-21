@@ -1,4 +1,4 @@
-###  UM POUCO DA MINHA HISTÓRIA PROFISSIONAL
+##  UM POUCO DA MINHA HISTÓRIA PROFISSIONAL
 Experiência de 21 anos na área de informática, colaborando junto ao setor público e privado atuando como Analista de Suporte, Supervisão e Gestor de TI. 
 Nos últimos 04 anos tenho dedicado ao desenvolvimento e implantação de Projetos de Business Intelligence (envolvendo ETL, DW e OLAP).
 Conhecimento em:
