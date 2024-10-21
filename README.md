@@ -1,4 +1,4 @@
-##  Fabian Bernardo - Engenheiro de Dados
+##  Fabiano Bernardo - Engenheiro de Dados
 Experiência de 21 anos na área de informática, colaborando junto ao setor público e privado atuando como Analista de Suporte, Supervisão e Gestor de TI. 
 Nos últimos 04 anos tenho dedicado ao desenvolvimento e implantação de Projetos de Business Intelligence (envolvendo ETL, DW e OLAP).
 Conhecimento em:
@@ -11,5 +11,7 @@ Conhecimento em:
 - Experiência com levantamento de requisitos e entendimento de negócios;
 - Experiência com metodologia de trabalho SCRUM
 
-
-
+##  Contatos
+E-mail:   fabianovbernardo@gmail.com
+Fone:     (62) 99180-1100
+Linkedin: https://www.linkedin.com/in/fabianovbernardo/
